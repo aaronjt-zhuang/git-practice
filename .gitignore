@@ -1,0 +1,21 @@
+# 程序产物
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地数据（每台机器不一样，不该提交）
+todos.json
+
+# 编辑器
+.vscode/
+.idea/
+
+# 密钥（永远不要提交）
+.env
+*.key
+*.pem
+
+# 系统
+Thumbs.db
+.DS_Store
